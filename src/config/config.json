@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "fleet",
+    "password": "w2HeSPM3l4c8OpQT",
+    "database": "fleetManagement",
+    "host": "192.168.0.211",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
